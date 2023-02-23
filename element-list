@@ -1,0 +1,9 @@
+com.springproject.emailsender
+com.springproject.emailsender.configs
+com.springproject.emailsender.configs.enum_config
+com.springproject.emailsender.controller
+com.springproject.emailsender.model
+com.springproject.emailsender.model.exceptions
+com.springproject.emailsender.repository
+com.springproject.emailsender.service
+com.springproject.emailsender.service.impl
